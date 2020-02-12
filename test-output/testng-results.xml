@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="suite [Default suite]" duration-ms="484069" started-at="2020-02-05T10:47:56Z" finished-at="2020-02-05T10:56:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="484069" started-at="2020-02-05T10:47:56Z" finished-at="2020-02-05T10:56:00Z">
+      <class name="firsttestngpackage.FirstTestNGFile">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:firsttestngpackage.FirstTestNGFile@2b98378d]" name="launchBrowser" is-config="true" duration-ms="2919" started-at="2020-02-05T10:47:56Z" finished-at="2020-02-05T10:47:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="verifyHomepageTitle()[pri:0, instance:firsttestngpackage.FirstTestNGFile@2b98378d]" name="verifyHomepageTitle" duration-ms="33" started-at="2020-02-05T10:47:59Z" finished-at="2020-02-05T10:47:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method status="PASS" signature="login()[pri:0, instance:firsttestngpackage.FirstTestNGFile@2b98378d]" name="login" duration-ms="480370" started-at="2020-02-05T10:47:59Z" finished-at="2020-02-05T10:55:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:firsttestngpackage.FirstTestNGFile@2b98378d]" name="terminateBrowser" is-config="true" duration-ms="721" started-at="2020-02-05T10:55:59Z" finished-at="2020-02-05T10:56:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- firsttestngpackage.FirstTestNGFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- suite [Default suite] -->
+</testng-results>
